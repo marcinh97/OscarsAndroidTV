@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyTVApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="oscars_title">Oscars 2018</string>
+    <string name="category_1">Best Picture</string>
+    <string name="category_2">Original Screenplay</string>
+    <string name="category_3">Best Animated</string>
+    <string name="category_4">Best Foreign</string>
+    <string name="category_1_movie1">Shape of Water</string>
+    <string name="category_1_movie2">Three Billboards</string>
+    <string name="category_1_movie3">Dunkirk</string>
+    <string name="category_1_movie4">The Dark Hour</string>
+    <string name="category_1_movie5">Get out!</string>
+    <string name="category_2_movie1">Get out!</string>
+    <string name="category_2_movie2">Lady Bird</string>
+    <string name="category_2_movie3">The Big Sick</string>
+    <string name="category_2_movie4">Three Billboards</string>
+    <string name="category_2_movie5">Shape of Water</string>
+
+    <string name="category_3_movie1">Coco</string>
+    <string name="category_3_movie2">Loving Vincent</string>
+    <string name="category_3_movie3">The Boss Baby</string>
+    <string name="category_3_movie4">Ferdinand</string>
+    <string name="category_3_movie5">The Bread Winner</string>
+</resources>
